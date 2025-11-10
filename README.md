@@ -148,7 +148,7 @@ El comportamiento demuestra una **adaptación autónoma** similar a un vehículo
 ## 📂 6. Estructura del Repositorio
 
 ```
-├── /src
+├── /Wokwi
 │   ├── sketch.ino           # Código Arduino principal
 │   ├── diagram.json         # Diagrama de conexiones para Wokwi
 │
